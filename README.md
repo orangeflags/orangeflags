@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67af28660a4602069bea827a?variant=dark&roadmaps=data-analyst%2Cgame-developer%2Cfull-stack" alt="roadmap.sh"/></a>
+
 <!--
 **orangeflags/orangeflags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
